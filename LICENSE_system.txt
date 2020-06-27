@@ -1,0 +1,32 @@
+End User License Agreement (version 1.0) for CAMPLAYER OS
+
+IMPORTANT-READ CAREFULLY: This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and raspicamplayer with regard to the copyrighted Software CAMPLAYER OS (herein referred to as "SOFTWARE PRODUCT" or "SOFTWARE") provided with this EULA. This SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. 
+By installing, copying, downloading or using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, you may not install or use the SOFTWARE PRODUCT
+
+1. LICENSE GRANT
+
+The SOFTWARE is licensed, not sold. raspicamplayer grants to you a non-transferable and non-exclusive right to use the copy of the SOFTWARE provided with this EULA. You agree you will not copy the SOFTWARE except as necessary to use it on a single computer. Modifying, translating, renting, copying, transferring or assigning all or part of the SOFTWARE, or any rights granted hereunder, to any other party and removing any proprietary notices, labels or marks from the SOFTWARE is strictly prohibited. If you are installing this copy of the SOFTWARE PRODUCT as an upgrade, update, patch or enhancement of a prior release of the same SOFTWARE PRODUCT which was installed on the same computer, your rights under the prior license agreement for the SOFTWARE PRODUCT are terminated, and all of your use of the SOFTWARE PRODUCT (including its prior versions) are solely under the terms of this license agreement.
+
+2. COPYRIGHT
+
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties that are relevant to your use of the SOFTWARE PRODUCT.
+You acknowledge that no title to the intellectual property in the SOFTWARE is transferred to you. You further acknowledge that title and full ownership rights to the SOFTWARE will remain the exclusive property of raspicamplayer and/or its suppliers, and you will not acquire any rights to the SOFTWARE, except as expressly set forth above. The SOFTWARE PRODUCT is protected by copyright laws and international treaty provisions.
+
+3. REVERSE ENGINEERING
+
+You agree that you will not attempt to modify, translate or disassemble the SOFTWARE in whole or in part. Any failure to comply with the above or any other terms and conditions contained herein will result in the automatic termination of this license and the reversion of the rights granted hereunder.
+
+4. LIMITED WARRANTY
+
+This software is provided by raspicamplayer "AS IS" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall raspicamplayer be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, confidential information, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage. Neither raspicamplayer nor its suppliers warrant that the functions contained in the SOFTWARE will meet your requirements or that the operation of the SOFTWARE will be uninterrupted or error-free. raspicamplayer is not obligated to provide any updates to the software.
+
+5. LIMITATION OF LIABILITY
+
+In no event will raspicamplayer, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data (including confidential); or (iv) for any amounts that exceed the fees paid by you to raspicamplayer under this agreement during the twelve (12) month period prior to the cause of action. Raspicamplayer shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+
+6. PRODUCT SUPPORT
+
+Product support for the SOFTWARE PRODUCT is provided by raspicamplayer. 
+For product support, please contact:
+* 'https://github.com/raspicamplayer/camplayer_os' (preferable)
+* 'raspicamplayer@gmail.com'
